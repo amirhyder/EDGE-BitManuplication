@@ -1,1 +1,1 @@
-# EDGE-BitManuplication
+String comparasion using bits
